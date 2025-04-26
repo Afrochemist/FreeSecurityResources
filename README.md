@@ -7,7 +7,9 @@
 
 [Portswigger Graphql](https://portswigger.net/web-security/graphql)
 
+[Portswigger REST API](https://portswigger.net/web-security/api-testing)
 
+[APIsec University courses](https://www.apisecuniversity.com/#courses)
 
 **ICS/OT**
 
