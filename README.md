@@ -2,6 +2,7 @@
 
 
 **Web Application** 
+[Portswigger Web Security Academy](https://portswigger.net/web-security)
 
 **API**
 
