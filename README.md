@@ -2,6 +2,7 @@
 
 
 **Web Application** 
+
 [Portswigger Web Security Academy](https://portswigger.net/web-security)
 
 **API**
@@ -17,5 +18,9 @@
 **IOT**
 
 **Wifi**
+
+[Aircrack Suite](https://www.aircrack-ng.org/)
+
+[Kismet](https://www.kismetwireless.net/docs/)
 
 **Cloud**
