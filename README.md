@@ -15,6 +15,8 @@
 
 [API Security on Google Cloud's Apigee API Platform](https://www.cloudskillsboost.google/course_templates/255)
 
+[ShipFast](https://github.com/approov/shipfast-api-protection)
+
 **ICS/OT**
 
 **IOT**
