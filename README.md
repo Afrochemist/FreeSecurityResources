@@ -13,6 +13,8 @@
 
 [APIsec University courses](https://www.apisecuniversity.com/#courses)
 
+[API Security on Google Cloud's Apigee API Platform](https://www.cloudskillsboost.google/course_templates/255)
+
 **ICS/OT**
 
 **IOT**
