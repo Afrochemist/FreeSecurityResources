@@ -5,6 +5,9 @@
 
 [Portswigger Web Security Academy](https://portswigger.net/web-security)
 
+[WebSploit Labs](https://websploit.org/)
+
+
 **API**
 
 [Portswigger Graphql](https://portswigger.net/web-security/graphql)
