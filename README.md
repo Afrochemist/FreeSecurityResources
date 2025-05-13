@@ -30,4 +30,8 @@
 
 [Kismet](https://www.kismetwireless.net/docs/)
 
+[Wifite](https://github.com/derv82/wifite)
+
+[PixieWPS](https://github.com/wiire-a/pixiewps)
+
 **Cloud**
