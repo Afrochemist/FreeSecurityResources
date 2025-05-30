@@ -24,6 +24,16 @@
 
 **IOT**
 
+[IoTSecurity101](https://github.com/V33RU/IoTSecurity101)
+
+[OWASP IoT Project](https://owasp.org/www-project-internet-of-things/)
+
+[Awesome Hardware nd IoT Hacking](https://github.com/CyberSecurityUP/Awesome-Hardware-and-IoT-Hacking#readme)
+
+[IOT Security Foundation](https://iotsecurityfoundation.org/)
+
+
+
 **Wifi**
 
 [Aircrack Suite](https://www.aircrack-ng.org/)
