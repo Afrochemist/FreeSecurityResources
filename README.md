@@ -45,3 +45,9 @@
 [PixieWPS](https://github.com/wiire-a/pixiewps)
 
 **Cloud**
+
+[Awesome Cloud Security](https://github.com/4ndersonLin/awesome-cloud-security)
+
+[Cloud Security Resources](https://medium.com/@0xRad1ant/cloud-security-resources-b40f47987462)
+
+[10 Free Resources to Yourself Cloud Security](https://www.ascendcloudsolutions.com/10-free-resources-to-teach-yourself-cloud-security)
