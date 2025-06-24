@@ -20,8 +20,6 @@
 
 [ShipFast](https://github.com/approov/shipfast-api-protection)
 
-**ICS/OT**
-
 **IOT**
 
 [IoTSecurity101](https://github.com/V33RU/IoTSecurity101)
@@ -51,3 +49,14 @@
 [Cloud Security Resources](https://medium.com/@0xRad1ant/cloud-security-resources-b40f47987462)
 
 [10 Free Resources to Yourself Cloud Security](https://www.ascendcloudsolutions.com/10-free-resources-to-teach-yourself-cloud-security)
+
+**ICC/OT**
+
+**Hardware**
+
+**RFID**
+
+**Mobile**
+
+
+
