@@ -50,13 +50,25 @@
 
 [10 Free Resources to Yourself Cloud Security](https://www.ascendcloudsolutions.com/10-free-resources-to-teach-yourself-cloud-security)
 
-**ICC/OT**
+**Mobile**
+
+**AI**
+
+**ICS/OT**
 
 **Hardware**
 
 **RFID**
 
-**Mobile**
+**EV**
+
+**GRC**
+
+**Networking**
+
+
+
+
 
 
 
