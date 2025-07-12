@@ -54,6 +54,8 @@
 
 **AI**
 
+[Portswigger Web LLM Attacks](https://portswigger.net/web-security/learning-paths/llm-attacks)
+
 **ICS/OT**
 
 **Hardware**
