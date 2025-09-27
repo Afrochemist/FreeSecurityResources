@@ -26,7 +26,7 @@
 
 [OWASP IoT Project](https://owasp.org/www-project-internet-of-things/)
 
-[Awesome Hardware nd IoT Hacking](https://github.com/CyberSecurityUP/Awesome-Hardware-and-IoT-Hacking#readme)
+[Awesome Hardware and IoT Hacking](https://github.com/CyberSecurityUP/Awesome-Hardware-and-IoT-Hacking#readme)
 
 [IOT Security Foundation](https://iotsecurityfoundation.org/)
 
